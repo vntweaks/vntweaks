@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./VN-Tweaks-GitHub-Banner.gif"
+    src="./vn-tweaks-banner.gif"
     width="100%"
     alt="VN Tweaks"
   />
